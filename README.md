@@ -1,9 +1,4 @@
 <div align="center">
-
-<h2>🚧🚧Em Construção🚧🚧</h2>
-<hr>
-<br><br>
-
   <a href="https://github.com/joaotelesk/Projeto-aluroni/tree/main/src">
     <img src="./public/logo.png" alt="Logo" width="80" height="80">
   </a>
@@ -39,7 +34,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[Link Vercel](#).
+[Link Vercel](https://smart-bank-coral.vercel.app/).
 
 ## Available Scripts
 
